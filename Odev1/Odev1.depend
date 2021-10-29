@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1635357169 source:c:\users\rohat\onedrive\belgeler\odev1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
